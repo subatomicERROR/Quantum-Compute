@@ -1,3 +1,4 @@
 [submodule "submodules/Quantum-ML"]
     path = submodules/Quantum-ML
     url = https://github.com/subatomicERROR/Quantum-ML.git
+    branch = Quantum-ML
